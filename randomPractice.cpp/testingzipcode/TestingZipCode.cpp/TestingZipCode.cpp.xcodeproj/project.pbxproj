@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3CA445701D9CB5BC00F4A5F1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4456F1D9CB5BC00F4A5F1 /* main.cpp */; };
+		3CA4457E1D9CB5DB00F4A5F1 /* mainQueueArr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4457A1D9CB5DB00F4A5F1 /* mainQueueArr.cpp */; };
+		3CA4457F1D9CB5DB00F4A5F1 /* mainQueueLL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4457B1D9CB5DB00F4A5F1 /* mainQueueLL.cpp */; };
+		3CA445801D9CB5DB00F4A5F1 /* mainStackArr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4457C1D9CB5DB00F4A5F1 /* mainStackArr.cpp */; };
+		3CA445811D9CB5DB00F4A5F1 /* mainStackLL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA4457D1D9CB5DB00F4A5F1 /* mainStackLL.cpp */; };
+		3CA445861D9CB62200F4A5F1 /* HW3-Todo-QueueArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA445821D9CB62200F4A5F1 /* HW3-Todo-QueueArray.cpp */; };
+		3CA445871D9CB62200F4A5F1 /* HW3-Todo-QueueLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA445831D9CB62200F4A5F1 /* HW3-Todo-QueueLinkedList.cpp */; };
+		3CA445881D9CB62200F4A5F1 /* HW3-Todo-StackArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA445841D9CB62200F4A5F1 /* HW3-Todo-StackArray.cpp */; };
+		3CA445891D9CB62200F4A5F1 /* HW3-Todo-StackLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3CA445851D9CB62200F4A5F1 /* HW3-Todo-StackLinkedList.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3CA4456A1D9CB5BC00F4A5F1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		3CA4456C1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestingZipCode.cpp; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CA4456F1D9CB5BC00F4A5F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3CA445761D9CB5DB00F4A5F1 /* HW3-Todo-QueueArray.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-QueueArray.hpp"; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-QueueArray.hpp"; sourceTree = "<group>"; };
+		3CA445771D9CB5DB00F4A5F1 /* HW3-Todo-QueueLinkedList.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-QueueLinkedList.hpp"; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-QueueLinkedList.hpp"; sourceTree = "<group>"; };
+		3CA445781D9CB5DB00F4A5F1 /* HW3-Todo-StackArray.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-StackArray.hpp"; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.hpp"; sourceTree = "<group>"; };
+		3CA445791D9CB5DB00F4A5F1 /* HW3-Todo-StackLinkedList.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-StackLinkedList.hpp"; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-StackLinkedList.hpp"; sourceTree = "<group>"; };
+		3CA4457A1D9CB5DB00F4A5F1 /* mainQueueArr.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mainQueueArr.cpp; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainQueueArr.cpp"; sourceTree = "<group>"; };
+		3CA4457B1D9CB5DB00F4A5F1 /* mainQueueLL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mainQueueLL.cpp; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainQueueLL.cpp"; sourceTree = "<group>"; };
+		3CA4457C1D9CB5DB00F4A5F1 /* mainStackArr.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mainStackArr.cpp; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainStackArr.cpp"; sourceTree = "<group>"; };
+		3CA4457D1D9CB5DB00F4A5F1 /* mainStackLL.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = mainStackLL.cpp; path = "../../../../homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainStackLL.cpp"; sourceTree = "<group>"; };
+		3CA445821D9CB62200F4A5F1 /* HW3-Todo-QueueArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "HW3-Todo-QueueArray.cpp"; path = "../../../../../../Downloads/HW3_Nabil_Ettachfini test/HW3-Todo-QueueArray.cpp"; sourceTree = "<group>"; };
+		3CA445831D9CB62200F4A5F1 /* HW3-Todo-QueueLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "HW3-Todo-QueueLinkedList.cpp"; path = "../../../../../../Downloads/HW3_Nabil_Ettachfini test/HW3-Todo-QueueLinkedList.cpp"; sourceTree = "<group>"; };
+		3CA445841D9CB62200F4A5F1 /* HW3-Todo-StackArray.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "HW3-Todo-StackArray.cpp"; path = "../../../../../../Downloads/HW3_Nabil_Ettachfini test/HW3-Todo-StackArray.cpp"; sourceTree = "<group>"; };
+		3CA445851D9CB62200F4A5F1 /* HW3-Todo-StackLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "HW3-Todo-StackLinkedList.cpp"; path = "../../../../../../Downloads/HW3_Nabil_Ettachfini test/HW3-Todo-StackLinkedList.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3CA445691D9CB5BC00F4A5F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3CA445631D9CB5BC00F4A5F1 = {
+			isa = PBXGroup;
+			children = (
+				3CA4456E1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */,
+				3CA4456D1D9CB5BC00F4A5F1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3CA4456D1D9CB5BC00F4A5F1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3CA4456C1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3CA4456E1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */ = {
+			isa = PBXGroup;
+			children = (
+				3CA4456F1D9CB5BC00F4A5F1 /* main.cpp */,
+				3CA445761D9CB5DB00F4A5F1 /* HW3-Todo-QueueArray.hpp */,
+				3CA445821D9CB62200F4A5F1 /* HW3-Todo-QueueArray.cpp */,
+				3CA445771D9CB5DB00F4A5F1 /* HW3-Todo-QueueLinkedList.hpp */,
+				3CA445831D9CB62200F4A5F1 /* HW3-Todo-QueueLinkedList.cpp */,
+				3CA445781D9CB5DB00F4A5F1 /* HW3-Todo-StackArray.hpp */,
+				3CA445841D9CB62200F4A5F1 /* HW3-Todo-StackArray.cpp */,
+				3CA445791D9CB5DB00F4A5F1 /* HW3-Todo-StackLinkedList.hpp */,
+				3CA445851D9CB62200F4A5F1 /* HW3-Todo-StackLinkedList.cpp */,
+				3CA4457A1D9CB5DB00F4A5F1 /* mainQueueArr.cpp */,
+				3CA4457B1D9CB5DB00F4A5F1 /* mainQueueLL.cpp */,
+				3CA4457C1D9CB5DB00F4A5F1 /* mainStackArr.cpp */,
+				3CA4457D1D9CB5DB00F4A5F1 /* mainStackLL.cpp */,
+			);
+			path = TestingZipCode.cpp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CA4456B1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3CA445731D9CB5BC00F4A5F1 /* Build configuration list for PBXNativeTarget "TestingZipCode.cpp" */;
+			buildPhases = (
+				3CA445681D9CB5BC00F4A5F1 /* Sources */,
+				3CA445691D9CB5BC00F4A5F1 /* Frameworks */,
+				3CA4456A1D9CB5BC00F4A5F1 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestingZipCode.cpp;
+			productName = TestingZipCode.cpp;
+			productReference = 3CA4456C1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3CA445641D9CB5BC00F4A5F1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Nabil Ettachfini";
+				TargetAttributes = {
+					3CA4456B1D9CB5BC00F4A5F1 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 3CA445671D9CB5BC00F4A5F1 /* Build configuration list for PBXProject "TestingZipCode.cpp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3CA445631D9CB5BC00F4A5F1;
+			productRefGroup = 3CA4456D1D9CB5BC00F4A5F1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CA4456B1D9CB5BC00F4A5F1 /* TestingZipCode.cpp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3CA445681D9CB5BC00F4A5F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CA4457E1D9CB5DB00F4A5F1 /* mainQueueArr.cpp in Sources */,
+				3CA445801D9CB5DB00F4A5F1 /* mainStackArr.cpp in Sources */,
+				3CA4457F1D9CB5DB00F4A5F1 /* mainQueueLL.cpp in Sources */,
+				3CA445811D9CB5DB00F4A5F1 /* mainStackLL.cpp in Sources */,
+				3CA445891D9CB62200F4A5F1 /* HW3-Todo-StackLinkedList.cpp in Sources */,
+				3CA445871D9CB62200F4A5F1 /* HW3-Todo-QueueLinkedList.cpp in Sources */,
+				3CA445861D9CB62200F4A5F1 /* HW3-Todo-QueueArray.cpp in Sources */,
+				3CA445701D9CB5BC00F4A5F1 /* main.cpp in Sources */,
+				3CA445881D9CB62200F4A5F1 /* HW3-Todo-StackArray.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		3CA445711D9CB5BC00F4A5F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		3CA445721D9CB5BC00F4A5F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3CA445741D9CB5BC00F4A5F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3CA445751D9CB5BC00F4A5F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CA445671D9CB5BC00F4A5F1 /* Build configuration list for PBXProject "TestingZipCode.cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CA445711D9CB5BC00F4A5F1 /* Debug */,
+				3CA445721D9CB5BC00F4A5F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3CA445731D9CB5BC00F4A5F1 /* Build configuration list for PBXNativeTarget "TestingZipCode.cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CA445741D9CB5BC00F4A5F1 /* Debug */,
+				3CA445751D9CB5BC00F4A5F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3CA445641D9CB5BC00F4A5F1 /* Project object */;
+}

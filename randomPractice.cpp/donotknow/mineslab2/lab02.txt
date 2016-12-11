@@ -1,0 +1,7 @@
+0. What is your name and your partner's name?
+
+1. What did the initial "echo" code print out when you entered "one two three" at the prompt?
+
+2. Describe briefly what happened when you entered a non-integer value:
+
+

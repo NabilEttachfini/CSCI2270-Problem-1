@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		3C9189901D9CAD55001D1735 /* HW3-Todo-QueueArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-QueueArray.hpp"; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-QueueArray.hpp"; sourceTree = "<group>"; };
+		3C9189911D9CAD55001D1735 /* HW3-Todo-QueueLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-QueueLinkedList.hpp"; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-QueueLinkedList.hpp"; sourceTree = "<group>"; };
+		3C9189921D9CAD55001D1735 /* HW3-Todo-StackArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-StackArray.hpp"; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.hpp"; sourceTree = "<group>"; };
+		3C9189931D9CAD55001D1735 /* HW3-Todo-StackLinkedList.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = "HW3-Todo-StackLinkedList.hpp"; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/HW3-Todo-StackLinkedList.hpp"; sourceTree = "<group>"; };
+		3C9189941D9CAD55001D1735 /* mainQueueArr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mainQueueArr.cpp; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainQueueArr.cpp"; sourceTree = "<group>"; };
+		3C9189951D9CAD55001D1735 /* mainQueueLL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mainQueueLL.cpp; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainQueueLL.cpp"; sourceTree = "<group>"; };
+		3C9189961D9CAD55001D1735 /* mainStackArr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mainStackArr.cpp; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainStackArr.cpp"; sourceTree = "<group>"; };
+		3C9189971D9CAD55001D1735 /* mainStackLL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = mainStackLL.cpp; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/mainStackLL.cpp"; sourceTree = "<group>"; };
+		3C9189981D9CAD73001D1735 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "homework/Homework3/HW3-HeaderFiles/HW3-Todo-StackArray.cpp/HW3-Todo-StackArray.cpp/main.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		3C9EED621D7208090093DC4B = {
+			isa = PBXGroup;
+			children = (
+				3C9189901D9CAD55001D1735 /* HW3-Todo-QueueArray.hpp */,
+				3C9189981D9CAD73001D1735 /* main.cpp */,
+				3C9189911D9CAD55001D1735 /* HW3-Todo-QueueLinkedList.hpp */,
+				3C9189921D9CAD55001D1735 /* HW3-Todo-StackArray.hpp */,
+				3C9189931D9CAD55001D1735 /* HW3-Todo-StackLinkedList.hpp */,
+				3C9189941D9CAD55001D1735 /* mainQueueArr.cpp */,
+				3C9189951D9CAD55001D1735 /* mainQueueLL.cpp */,
+				3C9189961D9CAD55001D1735 /* mainStackArr.cpp */,
+				3C9189971D9CAD55001D1735 /* mainStackLL.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		3C9EED631D7208090093DC4B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 3C9EED661D7208090093DC4B /* Build configuration list for PBXProject "xcodepractice.cpp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3C9EED621D7208090093DC4B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		3C9EED671D7208090093DC4B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		3C9EED681D7208090093DC4B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3C9EED661D7208090093DC4B /* Build configuration list for PBXProject "xcodepractice.cpp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3C9EED671D7208090093DC4B /* Debug */,
+				3C9EED681D7208090093DC4B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3C9EED631D7208090093DC4B /* Project object */;
+}
